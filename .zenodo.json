@@ -1,0 +1,33 @@
+{
+  "title": "Model-based quality control of Argo salinity and oxygen: detecting persistent sensor errors that pass real-time tests: code, models and results",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "creators": [
+    {
+      "name": "Jain, Jainam",
+      "affiliation": "Vidyalankar Institute of Technology, Mumbai, India",
+      "orcid": "0009-0008-3760-4496"
+    },
+    {
+      "name": "Jaiswal, Vivek",
+      "affiliation": "Vidyalankar Institute of Technology, Mumbai, India"
+    },
+    {
+      "name": "Mahajan, Nayana",
+      "affiliation": "Vidyalankar Institute of Technology, Mumbai, India",
+      "orcid": "0000-0003-0145-5851"
+    }
+  ],
+  "description": "Code, trained deep ensembles and result tables for model-based quality control of Argo salinity and dissolved oxygen. Ensembles predicting oxygen and salinity from the physical state, position and season are trained on Indian Ocean Argo floats; their standardized residuals are scored per level, per profile and over each float's life, with thresholds calibrated out of sample. The repository benchmarks the method against a reimplementation of the Argo real-time tests on planted errors and on documented real sensor failures.",
+  "license": "MIT",
+  "keywords": [
+    "Argo",
+    "quality control",
+    "salinity",
+    "dissolved oxygen",
+    "sensor drift",
+    "deep ensembles",
+    "Indian Ocean"
+  ],
+  "notes": "Argo data were collected and made freely available by the International Argo Program and the national programs that contribute to it (https://argo.ucsd.edu, https://www.ocean-ops.org). The Argo Program is part of the Global Ocean Observing System."
+}

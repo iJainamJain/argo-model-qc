@@ -1,0 +1,25 @@
+{
+ "pm_mu_D": -0.016029102355241777,
+ "pm_sd_D": 0.6834964185865223,
+ "pm_mu_S": -0.0415719677082729,
+ "pm_sd_S": 0.5784006343517544,
+ "excluded_floats": {
+  "6901573": 1.0,
+  "6901577": 1.0
+ },
+ "level_threshold": 3.342703332901,
+ "profile_threshold": 4.1642274496829454,
+ "deep_mu_D": -0.012091712817727099,
+ "deep_sd_D": 0.6892955917020798,
+ "deep_mu_S": -0.03792696683244272,
+ "deep_sd_S": 0.5967692836893014,
+ "within_d": 0.5153981154341877,
+ "within_s": 0.5753502585917634,
+ "float_method": "window",
+ "cusum_threshold": 7.51191366519325,
+ "float_hazard_per_100_profiles": 0.04786354538334348,
+ "float_false_alarm_fraction_pool": 0.03832752613240418,
+ "val_floats": 287,
+ "val_levels": 14176973,
+ "source": "out-of-fold scores, 5-fold cross-fitting over train+val floats"
+}

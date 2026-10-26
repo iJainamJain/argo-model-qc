@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Argo files and the tables built from them are large; see README, "Data"
+data/
+# written by make_numbers.py for the manuscript, which is not part of this repository
+paper_qc/manuscript/

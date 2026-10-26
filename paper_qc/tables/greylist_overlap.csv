@@ -1,0 +1,20 @@
+float,parameter,quality_code,start,end,comment,profiles,levels,levels_D,levels_A,levels_R
+2903864,PSAL,4,20240321,,bad conductivity cell or TBTO contamination,2,15,0,15,0
+5903712,PSAL,3,20121231,,sensor problem,4,4,4,0,0
+5904466,PSAL,3,20141031,,sensor problem,97,7046,7046,0,0
+5904658,PSAL,2,20160108,,maybe poor sensor performance; reason SBE sensor serial # in 6000-7100,19,191,191,0,0
+5904659,PSAL,2,20160107,,maybe poor sensor performance; reason SBE sensor serial # in 6000-7100,60,544,544,0,0
+5904671,PSAL,2,20160215,,maybe poor sensor performance; reason SBE sensor serial # in 6000-7100,32,14304,14154,150,0
+5904676,PSAL,2,20160117,,maybe poor sensor performance; reason SBE sensor serial # in 6000-7100,80,799,799,0,0
+5904682,PSAL,2,20160301,,maybe poor sensor performance; reason SBE sensor serial # in 6000-7100,44,430,430,0,0
+5904683,PSAL,2,20160303,,maybe poor sensor performance; reason SBE sensor serial # in 6000-7100,37,337,337,0,0
+5904684,PSAL,2,20160228,,maybe poor sensor performance; reason SBE sensor serial # in 6000-7100,106,748,748,0,0
+5904686,PSAL,2,20160224,,maybe poor sensor performance; reason SBE sensor serial # in 6000-7100,82,41552,41552,0,0
+5904688,PSAL,2,20160305,,maybe poor sensor performance; reason SBE sensor serial # in 6000-7100,28,284,284,0,0
+5904689,PSAL,2,20160325,,maybe poor sensor performance; reason SBE sensor serial # in 6000-7100,300,21701,21701,0,0
+5904690,PSAL,2,20160327,,maybe poor sensor performance; reason SBE sensor serial # in 6000-7100,258,18756,18756,0,0
+5904692,PSAL,3,20160402,20170801,sensor problem,96,6993,6993,0,0
+5906204,PSAL,4,20220131,,Conductivity cell failure,1,7,7,0,0
+5906217,PSAL,4,20201101,,sensor failure,10,111,111,0,0
+5906527,PSAL,3,20230605,,large PSAL drift that is approaching threshold of adjustment,83,595,595,0,0
+2902175,PSAL,4,20161116,,salty drift and wreckage,4,5,0,0,5
